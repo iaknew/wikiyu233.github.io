@@ -13,7 +13,7 @@ title: 水青谈                          # the main title
 tagline: 一位学生的平凡生活  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-一位学生的平凡生活
+  一位学生的平凡生活
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'
